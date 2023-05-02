@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rama Abdlrahman
-- 👀 I’m interested in Web development
+- 👀 I’m interested in Web development, also in Digital verification
 - 🌱 I’m currently learning Front-end, React library
 - 📫 How to reach me https://www.linkedin.com/in/rama-abdlrahman-627474217/
 
