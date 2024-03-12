@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rama Abdlrahman
-- 👀 I’m interested in Web development, also in Digital verification
+- 👀 I’m interested in Web development, also in Design verification
 - 🌱 I’m currently learning Front-end, React library
+- 🌱 I’m currently learning AI, ML, CV, and DL.
 - 📫 How to reach me https://www.linkedin.com/in/rama-abdlrahman-627474217/
 
 <!---
